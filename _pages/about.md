@@ -15,6 +15,14 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=jI_wcL8AAA
 
 <div class="col-lg-15">
   <div style="display: inline-block;">
+      <div style="float: left; width: 200px; padding-right: 30px"><a><img src="images/2024_iclr.png" alt=""></a></div>
+      <div style="float: left; width: 69%">
+        <strong>Neural Neighborhood Search for Multi-agent Path Finding</strong>&nbsp;<a href="https://openreview.net/forum?id=2NpAw2QJBY">[OpenReview]</a>
+        <br><strong>Zhongxia Yan</strong>, Cathy Wu
+        <br><i>Accepted to ICLR</i>, 2024.
+      </div>
+  </div>
+  <div style="display: inline-block;">
       <div style="float: left; width: 200px; padding-right: 30px"><a><img src="images/2022_tase.png" alt=""></a></div>
       <div style="float: left; width: 69%">
         <strong>Unified Automatic Control of Vehicular Systems with Reinforcement Learning</strong>&nbsp;<a href="https://mit-wu-lab.github.io/automatic_vehicular_control/">[Blog]</a>&nbsp;<a href="https://arxiv.org/abs/2208.00268">[arXiv]</a>&nbsp;<a href="https://ieeexplore.ieee.org/document/9765650">[IEEE]</a>&nbsp;<a href="https://github.com/mit-wu-lab/automatic_vehicular_control">[GitHub]</a>
@@ -60,14 +68,6 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=jI_wcL8AAA
 
 ## Under Review
 <div class="col-lg-15">
-  <div style="display: inline-block;">
-      <div style="float: left; width: 200px; padding-right: 30px"><a><img src="images/2024_iclr.png" alt=""></a></div>
-      <div style="float: left; width: 69%">
-        <strong>Neural Neighborhood Search for Multi-agent Path Finding</strong>&nbsp;<a href="https://openreview.net/forum?id=2NpAw2QJBY">[OpenReview]</a>
-        <br><strong>Zhongxia Yan</strong>, Cathy Wu
-        <br>Under review at <i>ICLR</i>, 2024
-      </div>
-  </div>
   <div style="display: inline-block;">
       <div style="float: left; width: 200px; padding-right: 30px"><a><img src="images/2024_icra.gif" alt=""></a></div>
       <div style="float: left; width: 69%">
