@@ -23,6 +23,14 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=jI_wcL8AAA
       </div>
   </div>
   <div style="display: inline-block;">
+      <div style="float: left; width: 200px; padding-right: 30px"><a><img src="images/2024_icra.gif" alt=""></a></div>
+      <div style="float: left; width: 69%">
+        <strong>Multi-agent Path Finding for Cooperative Autonomous Driving</strong>&nbsp;<a href="https://arxiv.org/abs/2402.00334">[arXiv]</a>&nbsp;<a href="https://github.com/mit-wu-lab/mapf-autonomous-driving">[GitHub]</a>
+        <br><strong>Zhongxia Yan</strong>, Han Zheng, Cathy Wu
+        <br><i>Accepted to ICRA</i>, 2024
+      </div>
+  </div>
+  <div style="display: inline-block;">
       <div style="float: left; width: 200px; padding-right: 30px"><a><img src="images/2022_tase.png" alt=""></a></div>
       <div style="float: left; width: 69%">
         <strong>Unified Automatic Control of Vehicular Systems with Reinforcement Learning</strong>&nbsp;<a href="https://mit-wu-lab.github.io/automatic_vehicular_control/">[Blog]</a>&nbsp;<a href="https://arxiv.org/abs/2208.00268">[arXiv]</a>&nbsp;<a href="https://ieeexplore.ieee.org/document/9765650">[IEEE]</a>&nbsp;<a href="https://github.com/mit-wu-lab/automatic_vehicular_control">[GitHub]</a>
@@ -68,14 +76,6 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=jI_wcL8AAA
 
 ## Under Review
 <div class="col-lg-15">
-  <div style="display: inline-block;">
-      <div style="float: left; width: 200px; padding-right: 30px"><a><img src="images/2024_icra.gif" alt=""></a></div>
-      <div style="float: left; width: 69%">
-        <strong>Multi-agent Path Finding for Cooperative Autonomous Driving</strong>
-        <br><strong>Zhongxia Yan</strong>, Han Zheng, Cathy Wu
-        <br>Under review at <i>ICRA</i>, 2024
-      </div>
-  </div>
   <div style="display: inline-block;">
       <div style="float: left; width: 200px; padding-right: 30px"><a><img src="images/2024_tits.png" alt=""></a></div>
       <div style="float: left; width: 69%">
