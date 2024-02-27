@@ -17,9 +17,9 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=jI_wcL8AAA
   <div style="display: inline-block;">
       <div style="float: left; width: 200px; padding-right: 30px"><a><img src="images/2024_iclr.png" alt=""></a></div>
       <div style="float: left; width: 69%">
-        <strong>Neural Neighborhood Search for Multi-agent Path Finding</strong>&nbsp;<a href="https://openreview.net/forum?id=2NpAw2QJBY">[OpenReview]</a>
+        <strong>Neural Neighborhood Search for Multi-agent Path Finding</strong>&nbsp;<a href="https://news.mit.edu/2024/new-ai-model-could-streamline-operations-robotic-warehouse-0227">[MIT News]</a>&nbsp;<a href="https://openreview.net/forum?id=2NpAw2QJBY">[OpenReview]</a>
         <br><strong>Zhongxia Yan</strong>, Cathy Wu
-        <br><i>Accepted to ICLR</i>, 2024.
+        <br><i>ICLR</i>, 2024.
       </div>
   </div>
   <div style="display: inline-block;">
@@ -27,7 +27,7 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=jI_wcL8AAA
       <div style="float: left; width: 69%">
         <strong>Multi-agent Path Finding for Cooperative Autonomous Driving</strong>&nbsp;<a href="https://arxiv.org/abs/2402.00334">[arXiv]</a>&nbsp;<a href="https://github.com/mit-wu-lab/mapf-autonomous-driving">[GitHub]</a>
         <br><strong>Zhongxia Yan</strong>, Han Zheng, Cathy Wu
-        <br><i>Accepted to ICRA</i>, 2024
+        <br><i>ICRA</i>, 2024
       </div>
   </div>
   <div style="display: inline-block;">
@@ -41,7 +41,7 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=jI_wcL8AAA
   <div style="display: inline-block;">
       <div style="float: left; width: 200px; padding-right: 30px"><a><img src="images/2021_neurips_padded.png" alt=""></a></div>
       <div style="float: left; width: 69%">
-        <strong>Learning to Delegate for Large-scale Vehicle Routing</strong>&nbsp;<a href="https://mit-wu-lab.github.io/learning-to-delegate/">[Blog]</a>&nbsp;<a href="https://arxiv.org/abs/2107.04139">[arXiv]</a>&nbsp;<a href="https://github.com/mit-wu-lab/learning-to-delegate/blob/gh-pages/img/poster.png">[Poster]</a>&nbsp;<a href="https://github.com/mit-wu-lab/learning-to-delegate">[GitHub]</a>
+        <strong>Learning to Delegate for Large-scale Vehicle Routing</strong>&nbsp;<a href="https://news.mit.edu/2024/new-ai-model-could-streamline-operations-robotic-warehouse-0227">[MIT News]</a>&nbsp;<a href="https://mit-wu-lab.github.io/learning-to-delegate/">[Blog]</a>&nbsp;<a href="https://arxiv.org/abs/2107.04139">[arXiv]</a>&nbsp;<a href="https://github.com/mit-wu-lab/learning-to-delegate/blob/gh-pages/img/poster.png">[Poster]</a>&nbsp;<a href="https://github.com/mit-wu-lab/learning-to-delegate">[GitHub]</a>
         <br>Sirui Li*, <strong>Zhongxia Yan*</strong>, Cathy Wu
         <br><i>NeurIPS</i>, 2021; <strong>Spotlight, top 3%</strong>
         <br>* equal contribution
