@@ -15,9 +15,17 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=jI_wcL8AAA
 
 <div class="col-lg-15">
   <div style="display: inline-block;">
+      <div style="float: left; width: 200px; padding-right: 30px"><a><img src="images/2024_iros.png" alt=""></a></div>
+      <div style="float: left; width: 69%">
+        <strong>Scalability of Platoon-based Coordination for Mixed Autonomy Intersections</strong>&nbsp;<a href="https://ieeexplore.ieee.org/document/10801701">[IEEE]</a>&nbsp;<a href="https://github.com/mit-wu-lab/scalable_mixed_autonomy_intersections">[GitHub]</a>
+        <br><strong>Zhongxia Yan</strong>, Cathy Wu
+        <br><i>IROS</i>, 2024.
+      </div>
+  </div>
+  <div style="display: inline-block;">
       <div style="float: left; width: 200px; padding-right: 30px"><a><img src="images/2024_iclr.png" alt=""></a></div>
       <div style="float: left; width: 69%">
-        <strong>Neural Neighborhood Search for Multi-agent Path Finding</strong>&nbsp;<a href="https://news.mit.edu/2024/new-ai-model-could-streamline-operations-robotic-warehouse-0227">[MIT News]</a>&nbsp;<a href="https://openreview.net/forum?id=2NpAw2QJBY">[OpenReview]</a>
+        <strong>Neural Neighborhood Search for Multi-agent Path Finding</strong>&nbsp;<a href="https://news.mit.edu/2024/new-ai-model-could-streamline-operations-robotic-warehouse-0227">[MIT News]</a>&nbsp;<a href="https://openreview.net/forum?id=2NpAw2QJBY">[OpenReview]</a>&nbsp;<a href="https://github.com/mit-wu-lab/mapf_neural_neighborhood_search">[GitHub]</a>
         <br><strong>Zhongxia Yan</strong>, Cathy Wu
         <br><i>ICLR</i>, 2024.
       </div>
