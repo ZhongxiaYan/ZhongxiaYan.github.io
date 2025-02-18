@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD student in the Department of Electrical Engineering and Computer Science (EECS) at Massachusetts Institute of Technology (MIT), advised by Prof. Cathy Wu. Prior to MIT, I received my bachelor's and master's degrees in EECS from UC Berkeley in 2017 and 2018, respectively. My research interest broadly lies in the intersection between machine learning and large-scale multi-agent systems relating to transportation, logistics, and robotics. Besides research, I'm also an avid engineer with numerous software projects across many different programming languages. I've spent time at DeepMind, Amazon Robotics, and several other companies as an intern.
+I am a Member of Technical Staff at Anthropic. I completed my PhD at the Department of Electrical Engineering and Computer Science (EECS) at Massachusetts Institute of Technology (MIT), advised by Prof. Cathy Wu. Prior to MIT, I received my bachelor's and master's degrees in EECS from UC Berkeley in 2017 and 2018, respectively. My research interest broadly lies in the intersection between machine learning and large-scale multi-agent systems relating to transportation, logistics, and robotics. Besides research, I'm also an avid engineer with numerous software projects across many different programming languages. I've spent time at DeepMind, Amazon Robotics, and several other companies as an intern.
 
 # Articles and Publications (First-Author)
 Please see [Google Scholar](https://scholar.google.com/citations?user=jI_wcL8AAAAJ&hl=en&oi=ao) for the full list of all publications.
